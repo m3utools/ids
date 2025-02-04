@@ -1,0 +1,95 @@
+202502031733
+
+
+-- epg_ripper_EC1 --
+
+Canal.A&E.(Ecuador).ec
+Canal.AMC.(Ecuador).ec
+Canal.Animal.Planet.(Ecuador).ec
+Channel.Antenna.3.ec
+Canal.AXN.(Ecuador).ec
+Canal.Baby.TV.(Latin America).ec
+Canal.BBC.World.News.ec
+Canal.Caracol.Internacional.ec
+Canal.Cartoon.Network.(Ecuador).ec
+Canal.Cinecanal.(Ecuador).ec
+Canal.Cinelatino.ec
+Canal.Cinemax.(Ecuador).ec
+Canal.Claro.TV.ec
+Canal.CNN.Chile.ec
+Canal.CNN.en.Español.ec
+Canal.Comedy.Central.(Ecuador).ec
+Canal.De.Pelicula.ec
+Canal.DHE.ec
+Canal.Discovery.Home.&.Health.(Ecuador).ec
+Canal.Discovery.Kids.(Ecuador).ec
+Canal.Discovery.Science.(Latin America).ec
+Canal.Discovery.Theater.(Latin America).ec
+Channel.Discovery.Turbo.(Latin America).ec
+Canal.Discovery.World.Latinoamérica.ec
+Canal.Disney.Channel.(Ecuador).ec
+Canal.Disney.Junior.(Ecuador).ec
+Canal.DW.(Latin America).ec
+Canal.Ecuador.TV.ec
+Channel.Ecuavisa.(Ecuador).ec
+Canal.E!.Entertainment.Television.(Ecuador).ec
+Canal.Elgourmet.ec
+Canal.ESNE.TV.ec
+Channel.ESPN.2.(Ecuador).ec
+Channel.ESPN.3.(Ecuador).ec
+Channel.ESPN.4.(Ecuador).ec
+Channel.ESPN.(Ecuador).ec
+Channel.Eurochannel.ec
+Canal.Europa.Europa.ec
+Canal.EWTN.en.Español.ec
+Canal.Film.&.Arts.ec
+Canal.Fox.News.ec
+Canal.FX.(Ecuador).ec
+Canal.Gamavisión.ec
+Canal.Golden.(Ecuador).ec
+Canal.GolTV.Latinoamérica.ec
+Canal.History.2.(Ecuador).ec
+Canal.History.(Chile).ec
+Channel.HELLO!.TV.ec
+Canal.HTV.ec
+Canal.Inti.Network.ec
+Canal.Investigation.Discovery.(Ecuador).ec
+Channel.Las.Estrellas.(Ecuador).ec
+Canal.Lifetime.(Ecuador).ec
+Canal.Más.Chic.Latinoamérica.ec
+Canal.MTV.00s.ec
+Canal.MTV.(Ecuador).ec
+Canal.MTV.Hits.ec
+Canal.MTV.Live.HD.ec
+Canal.Multipremier.ec
+Canal.Nickelodeon.(Ecuador).ec
+Canal.Nick.Jr..(Ecuador).ec
+Canal.Paramount.Channel.(Ecuador).ec
+Canal.Pasiones.(Latin America).ec
+Canal.RAI.International.ec
+Canal.RCN.Novelas.ec
+Canal.RCN.Nuestra.Tele.(International).ec
+Canal.RTS.ec
+Canal.Space.(Ecuador).ec
+Canal.Studio.Universal.(Ecuador).ec
+Canal.TCM.(Ecuador).ec
+Canal.TC.Television.ec
+Canal.TeenNick.ec
+Canal.Teleantioquia.ec
+Canal.Telefe.Internacional.ec
+Canal.Telehit.ec
+Channel.Telemundo.(Ecuador).ec
+Canal.TLC.(Ecuador).ec
+Channel.TLNovelas.(Ecuador).ec
+Canal.TNT.(Ecuador).ec
+Canal.TNT.Novelas.(Ecuador).ec
+Channel.TV.Azteca.Mundo.ec
+Canal.TV.Chile.ec
+Canal.TVE.Internacional.(Television.Spanish).ec
+Canal.Universal.TV.(Ecuador).ec
+Channel.Univision.(Ecuador).ec
+Canal.USA.Network.(Ecuador).ec
+Canal.Ve.Plus.(Latin America).ec
+Canal.Warner.TV.(Ecuador).ec
+Canal.Zona.Latina.ec
+Canal.ZooMoo.LatinoamÃ©rica.ec
